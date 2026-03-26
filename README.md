@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div
 Email Me 👉 ✉️ **dipakkubehera1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently PERSUING BTECH DEGREE**- GIET UNIVERSITY GUNUPUR
