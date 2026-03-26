@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Dipak kumar behera
-**A passionate BTECH studenT** || **3rd year** || **DIPAK KUMAR BEHERA from India**
+**A passionate BTECH student** || **3rd year** || **DIPAK KUMAR BEHERA from India**
 
 Email Me 👉 ✉️ **dipakkubehera1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
