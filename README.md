@@ -1,6 +1,11 @@
 
 # 💫 Hi 👋, I'm Dipak kumar behera
 **A passionate BTECH student** || **3rd year** || **DIPAK KUMAR BEHERA from India**
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div
 
 Email Me 👉 ✉️ **dipakkubehera1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
