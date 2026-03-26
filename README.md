@@ -9,7 +9,7 @@
 
 Email Me 👉 ✉️ **dipakkubehera1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently PERSUING btech degree** GIET UNIVERSITY GUNUPUR
+- 🔭 **I’m currently PERSUING BTECH degree** GIET UNIVERSITY GUNUPUR
 - 🌱 **I’m currently learning:**BTECH WITH CSEAIML
 - 👯 **I’m looking to collaborate on:** resturants,hotels and any shops
 - 💬 **Ask me about:** Collaboration, editing
