@@ -1,5 +1,5 @@
 
-# 💫 Hi 👋, I'm Dipak kumar behera
+# 💫 Hi 👋, I'm Dipak kumar Behera
 **A passionate BTECH student** || **3rd year** || **DIPAK KUMAR BEHERA from India**
 
 <!-- Snake Game Repo View -->
